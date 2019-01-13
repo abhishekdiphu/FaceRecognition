@@ -1,0 +1,8 @@
+.boundry_box {
+    position: absolute;
+    box-shadow: inset 0 0 0 5px Green;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+}
